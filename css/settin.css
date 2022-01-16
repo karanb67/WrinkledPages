@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #d3cbb8;
+}
+
+.background{
+	width: 100%;
+	height: auto;
+	background-color: #d3cbb8;
+	float: left;
+	position: absolute;
+}
+
+.leftcon{
+	width: 25%;
+	background-color: #c57b60;
+	height: 100vh;
+	float: left;
+	position: fixed;
+}
+
+.leftcon h2{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	color: #d3cbb8;
+}
+.menu{
+	margin-top: 50px;
+	margin-left: 10%;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+	margin-top: 25px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #d3cbb8;
+}
+.member{
+	color: #d3cbb8;
+	float: left;
+	position: absolute;
+	bottom: 8%;
+	margin-left: 15%;
+	text-align: center;
+}
+.member a{
+	text-decoration: none;
+	color: White;
+}
+.member .signup{
+	border: 1px solid White;
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px;
+}
+.member .signup:hover{
+	border: 1px solid #c57b60;
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px;
+	background-color: #d3cbb8;
+	color: #c57b60;
+}
+.rightcon{
+	width: 75%;
+	float: right;
+}
+.rightcon table
+{
+  margin: 5%;
+
+}
+.rightcon td{
+  border: 1px solid #c57b60;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.rightcon .namee{
+  font-size: 20px;
+  margin-left: 5%;
+  font-weight: bold;
+}
+.rightcon .namee span{
+  color: #c57b60;
+}

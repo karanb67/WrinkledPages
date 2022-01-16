@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #d3cbb8;
+}
+
+.background{
+	width: 100%;
+	height: auto;
+	background-color: #d3cbb8;
+	float: left;
+	position: absolute;
+}
+
+.leftcon{
+	width: 25%;
+	background-color: #c57b60;
+	height: 100vh;
+	float: left;
+	position: fixed;
+}
+
+.leftcon h2{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	color: #d3cbb8;
+}
+.menu{
+	margin-top: 50px;
+	margin-left: 10%;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+	margin-top: 25px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #d3cbb8;
+}
+.member{
+	color: #d3cbb8;
+	float: left;
+	position: absolute;
+	bottom: 8%;
+	margin-left: 15%;
+	text-align: center;
+}
+.member a{
+	text-decoration: none;
+	color: White;
+}
+.member .signup{
+	border: 1px solid White;
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px;
+}
+.member .signup:hover{
+	border: 1px solid #c57b60;
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px;
+	background-color: #d3cbb8;
+	color: #c57b60;
+}
+
+.rightcon{
+	width: 75%;
+	float: right;
+}
+.rightcon .bookscon{
+	height: auto;
+	width: 100%;
+	float: left;
+}
+.rightcon h2{
+	margin-top: 5%;
+	margin-left: 25px;
+	color: #c57b60;
+}
+.book1, .rectc{
+	background-color: rgba(197, 123, 96,0.50);
+	float: left;
+	width: 25%;
+	margin-left: 50px;
+	padding: 10px;
+	border-radius: 30px;
+
+}
+.book1:first-child{
+	background-color: rgba(197, 123, 96,0.50);
+	float: left;
+	width: 25%;
+	margin-left: 30px;
+	padding: 10px;
+	border-radius: 30px;
+
+}
+.book1:hover{
+	background-color: rgba(197, 123, 96,0.90);
+	float: left;
+	width: 25%;
+	margin-left: 20px;
+	padding: 10px;
+	border-radius: 30px;
+
+}
+.book1 img{
+	width: 100px;
+	float: left;
+	margin-right: 5px;
+	border-radius: 30px;
+}
+.book1 h4{
+	margin: 2px;
+	font-size: 15px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	color: white;
+
+}
+.book1 p{
+	font-size: 15px;
+	margin-top: 20px;
+	color: white;
+	float: left;
+}
+
+.book1 .readm{
+	float: left;
+	font-size: 12px;
+	text-decoration: none;
+	color: #d0eed8;
+}
+
+.genrecon{
+	width: 100%;
+	float: left;
+}
+.genre1{
+	float: left;
+	width: 100%;
+	height: auto;
+	margin-top: 2%;
+}
+.genre1{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.genre{
+	float: left;
+	width: 25%;
+	margin-left: 50px;
+	padding: 10px;
+	border-radius: 30px;
+
+}
+
+.genrecon img{
+	width: 150px;
+}
+.genrecon{
+	text-align: center;
+}
+
+.genrecon a{
+	text-decoration: none;
+	font-size: 13px;
+	color: #c57b60;
+}

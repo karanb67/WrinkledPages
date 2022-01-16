@@ -1,0 +1,67 @@
+body
+{
+    background-color: #d3cbb8;
+}
+.angels
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+}
+.davinci
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  left: 50px;
+}
+.ikagi
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  left: 100px;
+}
+.newearth
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  left: 150px;
+}
+.silent
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  top: 10px;
+}
+.headingtopchart
+{
+  font-size: 2.5em;
+  color: #7A701C;
+}
+.shadesdarker
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  top: 10px;
+  left: 50px;
+}
+.day21
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  top: 10px;
+  left: 100px;
+}
+.timemachine
+{
+  position: relative;
+  width: 211px;
+  height: 280px;
+  top: 10px;
+  left: 150px;
+}
