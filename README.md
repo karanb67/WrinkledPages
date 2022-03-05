@@ -2,11 +2,11 @@
 Web project for College
 ---
 Copying of this project is not allowed by any means<br />
-The Sign Up Page
+The Sign Up Page<br />
 ![signup](https://user-images.githubusercontent.com/48997539/156869221-71529335-999c-4319-acda-e2b44cf641af.jpg)
-The Login Page
+The Login Page<br />
 ![login](https://user-images.githubusercontent.com/48997539/156869230-b77eca2b-69d8-4d45-b401-a074c782cf81.jpg)
-Forgot Password
+Forgot Password<br />
 ![forgot passs](https://user-images.githubusercontent.com/48997539/156869249-802ab631-8657-466b-8b99-5494403077c4.jpg)
 Index-1
 ![index1](https://user-images.githubusercontent.com/48997539/156869250-b71c8153-a1f9-4a11-96fe-c7aed1d79255.jpg)
