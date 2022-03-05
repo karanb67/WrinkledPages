@@ -1,7 +1,6 @@
 # WrinkledPages
 Web project for College
 ---
-<br />
 The Sign Up Page<br />
 ![signup](https://user-images.githubusercontent.com/48997539/156869221-71529335-999c-4319-acda-e2b44cf641af.jpg)<br />
 The Login Page<br />
