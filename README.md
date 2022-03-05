@@ -2,7 +2,7 @@
 Web project for College
 ---
 Copying of this project is not allowed by any means
-The Sign Up Page
+!The Sign Up Page
 ![signup](https://user-images.githubusercontent.com/48997539/156869221-71529335-999c-4319-acda-e2b44cf641af.jpg)
 The Login Page
 ![login](https://user-images.githubusercontent.com/48997539/156869230-b77eca2b-69d8-4d45-b401-a074c782cf81.jpg)
